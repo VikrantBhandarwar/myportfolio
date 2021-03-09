@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Vikrant Bhandarwar`,
-    description: `Gatsby Markdown Personal Website Starter, using Typescript, Styled Components, Tailwindcss and Framer Motion.`,
+    description: `Personal Website, using JavaScript, Styled Components, Tailwindcss and Framer Motion.`,
     author: `Vikrant Bhandarwar`
   },
   plugins: [
