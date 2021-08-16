@@ -3,20 +3,20 @@ category: 'experiences'
 company: 'BillPower Pyt Ltd'
 position: 'Front-End Developer'
 startDate: 'Sept 2020'
-endDate: 'Present'
+endDate: 'February 2021'
 ---
 
 
 I am responsible for implementing payment invoice dashboard of the company using
-VueJS.
+React JS.
 
-Excellent knowledge of using UI components from Vuetify.
+Excellent knowledge of using UI components from Material UI.
 
 Developing pixel perfect responsive webpages using UI/UX wireframes.
 
-Implemented several front-end features with VueJS using Vuex for managing global state.
+Implemented several front-end features with React JS using Redux for managing global state.
 
-Implemented Vue component life cycle for managing local state of the component.
+Implemented using React Hooks for managing local state of the component.
 
 Implemented Vue Router for dynamic client-side routing between components.
 

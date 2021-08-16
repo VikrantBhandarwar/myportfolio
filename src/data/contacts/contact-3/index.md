@@ -2,5 +2,5 @@
 category: 'contact'
 title: 'Email'
 icon: 'paper-plane'
-content: 'codeviki@gmail.com'
+content: 'vikrantbhandarwar@gmail.com'
 ---
